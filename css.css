@@ -1,0 +1,33 @@
+body{
+    font-size: 25px;
+}
+nav{
+    background-color: gray;
+    color: black;
+}
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+h3{
+    text-align: center;
+    margin: 50px 50px;
+    font-weight: bold;
+}
+.box{
+    background-color: gray;
+    position: relative;
+    border: 2px solid black;
+}
+.chicken{
+    font-weight: bold;
+    padding: 5px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+/* .text{
+    margin-top: 50px;
+} */
+
